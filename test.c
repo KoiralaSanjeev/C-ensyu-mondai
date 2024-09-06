@@ -3,7 +3,7 @@
 int main(void) {
     int i, distance, average_speed, times;
     float duration;
-
+//tatara
     printf("計算する回数を入力してください:");
     scanf("%d", &times);
 
